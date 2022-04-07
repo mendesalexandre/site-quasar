@@ -41,7 +41,36 @@
           <ul>
             <li><a class="active" href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
-            <li><a href="services.html">Serviços</a></li>
+            <li class="dropdown">
+              <a href="#"
+                ><span>Serviços</span> <i class="bi bi-chevron-down"></i
+              ></a>
+              <ul>
+                <li class="dropdown">
+                  <a href="#"
+                    ><span>Registro de Imóveis</span>
+                    <i class="bi bi-chevron-right"></i
+                  ></a>
+                  <ul>
+                    <li><a href="#">Solicitar Certidão</a></li>
+                    <li><a href="#">Requerimentos</a></li>
+                    <li><a href="#">Check List</a></li>
+                  </ul>
+                </li>
+
+                <li class="dropdown">
+                  <a href="#"
+                    ><span>Registro de Títulos e Documentos</span>
+                    <i class="bi bi-chevron-right"></i
+                  ></a>
+                  <ul>
+                    <li><a href="#">Solicitar Certidão</a></li>
+                    <li><a href="#">Requerimentos</a></li>
+                    <li><a href="#">Check List</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
             <!-- <li><a href="testimonials.html">Testimonials</a></li> -->
             <li><a href="pricing.html">Tabela de Custas e Emolumentos</a></li>
             <!-- <li><a href="portfolio.html">Portfolio</a></li> -->
