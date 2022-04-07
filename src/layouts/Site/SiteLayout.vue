@@ -218,12 +218,9 @@
       <section id="cta" class="cta">
         <div class="container">
           <div class="row">
-            <div class="col-lg-9 text-center text-lg-left">
-              <h3>
-                Todos os dias, milhares de pessoas fazem negociações
-                <span>200 websites</span> this year!
-              </h3>
-              <p>
+            <div class="col-lg-12 text-center text-lg-left">
+              <h3>Todos os dias, milhares de pessoas fazem negociações</h3>
+              <p class="text-justify">
                 Pela Constituição Federal de 1988, o termo genérico “cartório”
                 foi substituído pela expressão Serviço Notarial e de Registro,
                 conforme consta do artigo 236. Em 18 de novembro de 1994,
@@ -248,21 +245,23 @@
                 Naturais, Protesto de títulos, registro de Imóveis e Registro de
                 Títulos e Documentos e de Pessoas Jurídicas.
               </p>
+              <a class="cta-btn align-middle" href="#"
+                >Saiba mais sobre a história dos Cartórios</a
+              >
             </div>
-            <div class="col-lg-3 cta-btn-container text-center">
-              <a class="cta-btn align-middle" href="#">Request a quote</a>
-            </div>
+            <!-- <div class="col-lg-3 cta-btn-container text-center">
+            </div> -->
           </div>
         </div>
       </section>
       <!-- End Cta Section -->
 
       <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
+      <section id="servicess" class="services">
         <div class="container">
           <div class="row">
             <div class="col-lg-4 col-md-6">
-              <div class="icon-box" data-aos="fade-up">
+              <div class="icon-box">
                 <div class="icon"><i class="bi bi-briefcase"></i></div>
                 <h4 class="title"><a href="">Lorem Ipsum</a></h4>
                 <p class="description">
@@ -272,7 +271,7 @@
               </div>
             </div>
             <div class="col-lg-4 col-md-6">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon-box">
                 <div class="icon"><i class="bi bi-card-checklist"></i></div>
                 <h4 class="title"><a href="">Dolor Sitema</a></h4>
                 <p class="description">
@@ -282,7 +281,7 @@
               </div>
             </div>
             <div class="col-lg-4 col-md-6">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon-box">
                 <div class="icon"><i class="bi bi-bar-chart"></i></div>
                 <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
                 <p class="description">
@@ -292,7 +291,7 @@
               </div>
             </div>
             <div class="col-lg-4 col-md-6">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon-box">
                 <div class="icon"><i class="bi bi-binoculars"></i></div>
                 <h4 class="title"><a href="">Magni Dolores</a></h4>
                 <p class="description">
@@ -302,7 +301,7 @@
               </div>
             </div>
             <div class="col-lg-4 col-md-6">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+              <div class="icon-box">
                 <div class="icon"><i class="bi bi-brightness-high"></i></div>
                 <h4 class="title"><a href="">Nemo Enim</a></h4>
                 <p class="description">
@@ -312,7 +311,7 @@
               </div>
             </div>
             <div class="col-lg-4 col-md-6">
-              <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="icon-box">
                 <div class="icon"><i class="bi bi-calendar4-week"></i></div>
                 <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
                 <p class="description">
@@ -329,7 +328,7 @@
       <!-- ======= Portfolio Section ======= -->
       <section id="portfolio" class="portfolio">
         <div class="container">
-          <div class="row" data-aos="fade-up">
+          <div class="row">
             <div class="col-lg-12 d-flex justify-content-center">
               <ul id="portfolio-flters">
                 <li data-filter="*" class="filter-active">All</li>
@@ -340,7 +339,7 @@
             </div>
           </div>
 
-          <div class="row portfolio-container" data-aos="fade-up">
+          <div class="row portfolio-container">
             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
               <img
                 src="assets/img/portfolio/portfolio-1.jpg"
@@ -573,8 +572,8 @@
       <!-- ======= Our Clients Section ======= -->
       <section id="clients" class="clients">
         <div class="container">
-          <div class="section-title" data-aos="fade-up">
-            <h2>Our <strong>Clients</strong></h2>
+          <div class="section-title">
+            <h2>Links <strong>Úteis</strong></h2>
             <p>
               Magnam dolores commodi suscipit. Necessitatibus eius consequatur
               ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
@@ -583,7 +582,7 @@
             </p>
           </div>
 
-          <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
+          <div class="row no-gutters clients-wrap clearfix">
             <div class="col-lg-3 col-md-4 col-xs-6">
               <div class="client-logo">
                 <img
@@ -669,121 +668,7 @@
       <!-- End Our Clients Section -->
     </main>
     <!-- End #main -->
-
-    <!-- ======= Footer ======= -->
-    <footer id="footer">
-      <div class="footer-top">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-3 col-md-6 footer-contact">
-              <h3>Nosso Endereço:</h3>
-              <p>
-                Rua das Nogueiras,1108, Setor Comercial <br />
-                Sinop, Mato Grosso<br />
-                Brasil <br /><br />
-                <strong>Telefone:</strong> +55 (66) 3531 2501<br />
-                <strong>Email:</strong> atendimento@1oficiosinop.com.br<br />
-              </p>
-            </div>
-
-            <div class="col-lg-2 col-md-6 footer-links">
-              <h4>Useful Links</h4>
-              <ul>
-                <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">Home</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">About us</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">Services</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Terms of service</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Privacy policy</a>
-                </li>
-              </ul>
-            </div>
-
-            <div class="col-lg-3 col-md-6 footer-links">
-              <h4>Our Services</h4>
-              <ul>
-                <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">Web Design</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Web Development</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Product Management</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i> <a href="#">Marketing</a>
-                </li>
-                <li>
-                  <i class="bx bx-chevron-right"></i>
-                  <a href="#">Graphic Design</a>
-                </li>
-              </ul>
-            </div>
-
-            <div class="col-lg-4 col-md-6 footer-newsletter">
-              <h4>Acompanhe nossos recados.</h4>
-              <p>
-                Fique por dentro dos nossos recados, sempre que surgir algum
-                aviso, enviaremos no seu e-mail.
-              </p>
-              <form action="" method="post">
-                <input type="email" name="email" /><input
-                  type="submit"
-                  value="Inscreva-se"
-                />
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="container d-md-flex py-4">
-        <div class="me-md-auto text-center text-md-start">
-          <div class="copyright">
-            &copy; Copyright
-            <strong
-              ><span
-                >1º Ofício de Registro de Imóveis, Títulos e Documentos</span
-              ></strong
-            >. Todos os Direitos Reservados - {{ new Date().getFullYear() }}.
-          </div>
-          <!-- <div class="credits">
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-          </div> -->
-        </div>
-        <div class="social-links text-center text-md-right pt-3 pt-md-0">
-          <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
-          <a
-            href="https://www.facebook.com/1oficiosinop/"
-            target="_blank"
-            class="facebook"
-            ><i class="bx bxl-facebook"></i
-          ></a>
-          <a
-            href="https://www.instagram.com/1oficiosinop/"
-            target="_blank"
-            class="instagram"
-            ><i class="bx bxl-instagram"></i
-          ></a>
-          <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> -->
-          <!-- <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
-        </div>
-      </div>
-    </footer>
-    <!-- End Footer -->
+    <SiteFooter />
     <a
       href="#"
       class="back-to-top d-flex align-items-center justify-content-center"
@@ -793,8 +678,10 @@
 </template>
 
 <script>
+import SiteFooter from "./SiteFooter.vue";
 export default {
   name: "SiteLayout",
+  components: { SiteFooter },
 };
 </script>
 
