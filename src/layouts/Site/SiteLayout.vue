@@ -95,16 +95,16 @@
           >
             <div class="carousel-container">
               <div class="carousel-content animate__animated animate__fadeInUp">
-                <h2>Welcome to <span>Flattern</span></h2>
+                <h2>
+                  Cartório de
+                  <span>Registro de Imóveis e Títulos e Documentos.</span>
+                </h2>
                 <p>
-                  Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut
-                  et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem
-                  mollitia ut. Similique ea voluptatem. Esse doloremque
-                  accusamus repellendus deleniti vel. Minus et tempore modi
-                  architecto.
+                  O Cartório de Registro de Imóveis, é o local onde as pessoas
+                  fazem o registro de seus terrenos, casas, apartamentos.
                 </p>
                 <div class="text-center">
-                  <a href="" class="btn-get-started">Read More</a>
+                  <a href="" class="btn-get-started">Continue lendo...</a>
                 </div>
               </div>
             </div>
@@ -126,7 +126,7 @@
                   architecto.
                 </p>
                 <div class="text-center">
-                  <a href="" class="btn-get-started">Read More</a>
+                  <a href="" class="btn-get-started">Continue lendo...</a>
                 </div>
               </div>
             </div>
@@ -191,13 +191,33 @@
           <div class="row">
             <div class="col-lg-9 text-center text-lg-left">
               <h3>
-                We've created more than <span>200 websites</span> this year!
+                Todos os dias, milhares de pessoas fazem negociações
+                <span>200 websites</span> this year!
               </h3>
               <p>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat non proident, sunt in culpa qui officia deserunt
-                mollit anim id est laborum.
+                Pela Constituição Federal de 1988, o termo genérico “cartório”
+                foi substituído pela expressão Serviço Notarial e de Registro,
+                conforme consta do artigo 236. Em 18 de novembro de 1994,
+                através da Lei Federal 8.935, ficou consagrada a utilização do
+                termo Serviço Notarial e de Registro para identificar os antigos
+                “cartórios”. Da mesma forma, o titular de um Serviço Notarial ou
+                de Registro, passou a ser reconhecido como um profissional do
+                Direito, que atua como Delegado do Poder público, mantendo-se
+                inalterada a fé pública que sempre o caracterizou. Para ser
+                Delegado de um Serviço Notarial ou de Registro, é preciso ser
+                Bacharel em Direito e aprovado no concorridíssimo concurso
+                público de provas e títulos que é realizado pelo Tribunal de
+                Justiça, conforme prescreve o Código de Organização e Divisão
+                Judiciária de cada estado da federação e legislação aplicável.
+                Para que se possa melhor compreender essa profunda alteração de
+                nomenclatura – que, entretanto, em nada modificou a parte
+                operacional dos serviços prestados, verifique o artigo 236 da
+                Constituição Fedeeral, bem como a Lei 8.935/1994. Assim, o termo
+                “cartório”, na atualidade, soa com tom pejorativo, e o ideal é o
+                emprego do termo Serviço Notarial ou de registro, quando se
+                referir aos Tabelionatos de Notas, Registro Civil de Pessoas
+                Naturais, Protesto de títulos, registro de Imóveis e Registro de
+                Títulos e Documentos e de Pessoas Jurídicas.
               </p>
             </div>
             <div class="col-lg-3 cta-btn-container text-center">
